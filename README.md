@@ -20,15 +20,7 @@
       <td><a href="https://github.com/sultanamoa/Admin">الشبكة الامنة</a></td>
       <td>ِAd Blocker with arabic page PI-Hole</td>
   </tr> -->
-         <tr>
-            <td rowspan="6">
-                <a href="https://github.com/sultanamoa">سلطان الهجلة</a>
-            </td>
-            <td>
-                <a href="https://github.com/sultanamoa/Admin">الشبكة الامنة</a>
-            </td>
-            <td>Ad Blocker with arabic page PI-Hole (for python)</td>
-        </tr>
+        
         <tr>
             <td rowspan="6">
                 <a href="https://github.com/hadialqattan">هادي القطان</a>
@@ -1001,6 +993,15 @@
                 </td>
                 <td>sends automated whatsapp messages</td>
                 </tr>
+        </tr>
+         <tr>
+            <td rowspan="6">
+                <a href="https://github.com/sultanamoa">سلطان الهجلة</a>
+            </td>
+            <td>
+                <a href="https://github.com/sultanamoa/Admin">الشبكة الامنة</a>
+            </td>
+            <td>Ad Blocker with arabic page PI-Hole (for python)</td>
         </tr>
    </table>
     <h1>
