@@ -20,8 +20,7 @@
       <td><a href="https://github.com/sultanamoa/Admin">الشبكة الامنة</a></td>
       <td>ِAd Blocker with arabic page PI-Hole</td>
   </tr> -->
-        
-        <tr>
+                <tr>
             <td rowspan="6">
                 <a href="https://github.com/hadialqattan">هادي القطان</a>
             </td>
