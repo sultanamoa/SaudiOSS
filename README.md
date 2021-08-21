@@ -29,7 +29,14 @@
             </td>
             <td>Formatter for finding and removing unused import statements (for python)</td>
         </tr>
-        <tr>
+         <td rowspan="1">
+             <a href="https://github.com/sultanamoa">سلطان الهجلة</a>
+        </td>
+      <td>
+          <a href="https://github.com/sultanamoa/Admin">الشبكة الامنة</a>
+        </td>
+      <td>ِAd Blocker with arabic page PI-Hole</td>
+        </tr>
             <td>
                 <a href="https://github.com/hadialqattan/go-compose">Go Compose</a>
             </td>
