@@ -29,6 +29,7 @@
             </td>
             <td>Formatter for finding and removing unused import statements (for python)</td>
         </tr>
+        <tr>
          <td rowspan="1">
              <a href="https://github.com/sultanamoa">سلطان الهجلة</a>
         </td>
